@@ -1,2 +1,2 @@
-# python-skeleton
-Template for Python projects
+# {{ cookiecutter.project_name }}
+{{ cookiecutter.project_description }}
