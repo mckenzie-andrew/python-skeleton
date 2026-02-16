@@ -24,6 +24,7 @@ dev-dependencies = [
 ]
 
 [tool.ruff]
+src = ["src", "tests"]
 target-version = "py313"
 line-length = 88
 
