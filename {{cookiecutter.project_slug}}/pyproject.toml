@@ -36,7 +36,6 @@ select = [
     "B",    # Bugbear (catches bad design patterns)
     "UP",   # Pyupgrade (modern syntax)
     "N",    # PEP8 Naming (class Capitalization, variable_naming)
-    "D",    # Pydocstyle (enforces docstrings)
     "ANN",
 ]
 ignore = []

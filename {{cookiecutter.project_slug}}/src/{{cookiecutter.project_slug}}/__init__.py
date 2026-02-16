@@ -1,2 +1,2 @@
 def main() -> None:
-    print("Hello from python-skeleton!")
+    print("Hello from {{ cookiecutter.project_slug }}!")
